@@ -77,7 +77,6 @@ const showRiddle = () => {
 
 <style lang="scss">
 .container {
-  height: 100vh;
   width: 100vw;
   display: flex;
   align-items: center;
